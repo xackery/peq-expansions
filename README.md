@@ -1,5 +1,7 @@
-# peq-expansions
+# PEQ-Expansions
 
-This repository tracks changelogs and edits related to the expansions projects.
+As a server owner, please use this listing before enabling an expansion to review any modifications you wish to have on your server.
 
-Think of it more as notes than any true repository
+[0 - Classic](https://github.com/xackery/peq-expansions/blob/master/0-classic.md)
+[1 - Kunark](https://github.com/xackery/peq-expansions/blob/master/1-kunark.md)
+[2 - Velious](https://github.com/xackery/peq-expansions/blob/master/2-velious.md)
