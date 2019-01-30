@@ -30,7 +30,7 @@ None at this time
 * [ ] Barbed Scale Whip drops from Draketamer in Frontier Mountains until Velious
 * [ ] Blade of the Black Dragon Eye drops in Veeshan's Peak until Velious
 * [ ] Brokenskull Club drops from ? in Karnor's Castle until Velious
-* [ ] Mosscovered Twig drops from Boogoog in Frontier Mountains until Velious
+* [ ] Mosscovered Twig drops from Boogoog in Frontier Mountains until Velious. ([nerf to offhand](https://github.com/xackery/peq-expansions/blob/master/1/mosscovered-twig-offhand.sql))
 * [ ] Polyphenomenal Axe drops from ? in Karnor's Castle until Velious
 * [ ] Ringed Mace of the Ykesha drops from a drolvarg sentry in Karnor's Castle until Velious
 * [ ] Rod of Annihilation drops from crypt caretaker in Old Sebilis until Velious
