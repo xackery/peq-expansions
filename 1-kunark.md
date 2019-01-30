@@ -8,7 +8,7 @@ None at this time
 
 ### Changelog
 This introduces the Kunark expansion.
-#### Items that will be nerfed with Kunark
+#### Items from Classic that will be nerfed with Kunark
 * [ ] Lustrous Russet is replaced with class-specific planar gear in Plane of Fear
 * [ ] Box of Abu-Kar no longer drops
 * [ ] Rubicite no longer drops
