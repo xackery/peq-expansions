@@ -17,7 +17,7 @@ Please note that on live, some of these items were retroactively nerfed, removin
 * [ ] Box of Abu-Kar is a global rare drop off mobs level 35+ until Kunark
 * [ ] Rubicite will drop in Cazic thule until Kunark
 * [ ] Guise of the Deceiver in Lower Guk until Kunark 
-* [ ] Terror Forged Mask has the effect "Fear" instead of "Call of Bones" until Kunark
+* [ ] Terror Forged Mask from the The Summoning Terorr Quest in Paineel has the effect "Fear" instead of "Call of Bones" until Kunark
 * [ ] Manastone will drop from Evil Eye until Kunark
 * [ ] Scimitar of the Mistwalker will drop from Lady Vox until Kunark
 * [ ] Thex Dagger from the Thax Dagger Quest in Highpass until Kunark
