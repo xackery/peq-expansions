@@ -12,12 +12,12 @@ Only content seen before Kunark's release should be found. Some liberties were t
 #### Items that may be unexpected on classic launch
 * [ ] Bag of the Tinkers is sold by Marfen Binkdurple in Solusek's Eye
 #### Items obtainable only during classic
-Please note that on live, some of these items were retroactively nerfed, removing the prenerf version. However, everything listed below will have a prenerf instance that retains it's stats forever until you manually patch it.
+Please note that on live, some of these items were retroactively nerfed, removing the prenerf version. However, everything listed below will have a prenerf instance that retains it's stats forever until you manually patch it. Any file that was retroactively nerfed will have a * on the item name.
 * [ ] Lustrous Russet drops in Plane of Fear until Kunark
 * [ ] Box of Abu-Kar is a global rare drop off mobs level 35+ until Kunark
 * [ ] Rubicite will drop in Cazic thule until Kunark
 * [ ] Guise of the Deceiver in Lower Guk until Kunark 
-* [ ] Terror Forged Mask from the The Summoning Terorr Quest in Paineel has the effect "Fear" instead of "Call of Bones" until Kunark
+* [ ] Terror Forged Mask* from the The Summoning Terorr Quest in Paineel has the effect "Fear" instead of "Call of Bones" until Kunark
 * [ ] Manastone will drop from Evil Eye until Kunark
 * [ ] Scimitar of the Mistwalker will drop from Lady Vox until Kunark
 * [ ] Thex Dagger from the Thax Dagger Quest in Highpass until Kunark
