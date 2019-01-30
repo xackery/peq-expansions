@@ -19,7 +19,7 @@ Only content seen before Kunark's release should be found. Some liberties were t
 * [ ] Terror Forged Mask* from the The Summoning Terror Quest in Paineel has the effect "Fear" instead of "Call of Bones" until Kunark ([fix prenerf instance](https://github.com/xackery/peq-expansions/blob/master/0/terror-forged-mask-prenerf.sql))
 * [ ] Manastone will drop from Evil Eye until Kunark
 * [ ] Scimitar of the Mistwalker will drop from Lady Vox until Kunark
-* [ ] Thex Dagger from the Thax Dagger Quest in Highpass until Kunark
+* [ ] Thex Dagger from the Thex Dagger Quest in Highpass until Kunark
 * [ ] BladeStorm, Katana of Steel Sleet will drop from Cazic Thule in Plane of Fear until Kunark
 * [ ] Cryosilk Robe will drop from a spinechiller spider in Plane of Fear until Kunark
 * [ ] Ring of the Dead from the Thex Mallet Quest in Neriak Third Quarter until Kunark
