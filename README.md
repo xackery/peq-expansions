@@ -1,6 +1,6 @@
 # PEQ-Expansions
 
-As a server owner, please use this listing before enabling an expansion to review any modifications you wish to have on your server.
+As a server owner, please use this listing before enabling an expansion to review any modifications you might wish or need to have on your server.
 
 * [0 - Classic](https://github.com/xackery/peq-expansions/blob/master/0-classic.md)
 * [1 - Kunark](https://github.com/xackery/peq-expansions/blob/master/1-kunark.md)
