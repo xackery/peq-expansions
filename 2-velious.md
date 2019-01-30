@@ -31,7 +31,6 @@ This introduces the Kunark expansion.
 * [ ] Breezeboot's Frigid Gnasher from The Pirate Ship quest until Luclin. On live this was only available for about the first month, [nerf by removing Seaworthy_Planking ground spawn](https://github.com/xackery/peq-expansions/blob/master/2/breezeboots-frigid-gnasher-seaworthy-planking-disable.sql)
 * [ ] Holgresh Elder Beads from an elder holgresh in Wakening Land until Luclin
 * [ ] Ornate Velium Pendant (unlimited charges version) from Councillers in Icewell Keep
-* [ ] 
 ### Items obtainable until Sleeper is awoken
 * [ ] Blue Resistance Stone
 * [ ] Clawed Guardian Bracer
