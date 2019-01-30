@@ -7,10 +7,22 @@ None at this time
 
 
 ### Changelog
-This introduces the Kunark expansion. Enabling Kunark will disable a list of items found in 0-classic
-#### Items that may be unexpected on kunark launch
+This introduces the Kunark expansion.
+#### Items that will be nerfed with Kunark
+* [ ] Lustrous Russet is replaced with class-specific planar gear in Plane of Fear
+* [ ] Box of Abu-Kar no longer drops
+* [ ] Rubicite no longer drops
+* [ ]  Guise of the Deceiver no longer drops
+* [ ] Terror Forged Mask from the The Summoning Terror Quest in Paineel now rewards "Fear" effect item
+* [ ] Manastone no longer drops
+* [ ] Scimitar of the Mistwalker no longer drops
+* [ ] Thex Dagger no longer drops
+* [ ] BladeStorm, Katana of Steel Sleet no longer drops
+* [ ] Cryosilk Robe no longer drops
+* [ ] Ring of the Dead no longer drops
+#### Items that may be unexpected on Kunark
 None at this time
-#### Items obtainable only during classic
+#### Items obtainable only during Kunark
 * [ ] Fungus Covered Great Staff dropps from myconid spore king in Sebilis until Velious
 * [ ] Robe of Living Fungus drops from myconid spore king in Sebilis until Velious
 * [ ] Gem Encrusted Ring drops from giants in Burning Woods and Frontier Mountains until Velious
