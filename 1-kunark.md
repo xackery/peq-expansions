@@ -40,4 +40,4 @@ None at this time
 * [ ] Warding Star drops from the Skeleton Sepulcher in Howling Stones until Velious
 * [ ] Star of the Guardian drops from Nexona in Veeshan's Peak forever. (Noted since Warding Star was changed to this)
 * [ ] Circlet of Shadow from a goblin bodyguard in Temple of Droga until Velious
-* [ ] Donal's Chestplate of Mourning from Trakanon in Sebilis until Velious. On Velious, a [nerf with 7 minute recast delay](https://github.com/xackery/peq-expansions/blob/master/1/donals-chestplate-of-mourning-7min.sql) happened.
+* [ ] Donal's Chestplate of Mourning from Trakanon in Sebilis until Velious. During Velious, a [nerf with 7 minute recast delay](https://github.com/xackery/peq-expansions/blob/master/1/donals-chestplate-of-mourning-7min.sql) happened on live.
