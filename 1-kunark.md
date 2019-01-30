@@ -38,3 +38,6 @@ None at this time
 * [ ] Runed Fighters Staff drops from frenzied pox scarab in Old Sebilis until Velious
 * [ ] Ton Po's Bo Stick of Understanding drops from Trakanon in Old Sebilis until Velious
 * [ ] Warding Star drops from the Skeleton Sepulcher in Howling Stones until Velious
+* [ ] Star of the Guardian drops from Nexona in Veeshan's Peak forever. (Noted since Warding Star was changed to this)
+* [ ] Circlet of Shadow from a goblin bodyguard in Temple of Droga until Velious
+* [ ] Donal's Chestplate of Mourning from Trakanon in Sebilis until Velious. On Velious, a [nerf with 7 minute recast delay](https://github.com/xackery/peq-expansions/blob/master/1/donals-chestplate-of-mourning-7min.sql) happened.
