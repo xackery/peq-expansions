@@ -12,11 +12,11 @@ This introduces the Kunark expansion.
 * [ ] Lustrous Russet is replaced with class-specific planar gear in Plane of Fear
 * [ ] Box of Abu-Kar no longer drops
 * [ ] Rubicite no longer drops
-* [ ]  Guise of the Deceiver no longer drops
-* [ ] Terror Forged Mask from the The Summoning Terror Quest in Paineel now rewards "Fear" effect item
+* [ ] Guise of the Deceiver is replaced with Mask of Deception
+* [ ] Terror Forged Mask from the The Summoning Terror Quest in Paineel now rewards "Fear" effect item instance
 * [ ] Manastone no longer drops
 * [ ] Scimitar of the Mistwalker no longer drops
-* [ ] Thex Dagger quest removed
+* [ ] Thex Dagger quest is removed
 * [ ] BladeStorm, Katana of Steel Sleet no longer drops
 * [ ] Cryosilk Robe no longer drops
 * [ ] Ring of the Dead no longer drops
