@@ -10,7 +10,7 @@
 ### Changelog
 Only content seen before Kunark's release should be found. Some liberties were taken to simplify era-based snapshots
 #### Items that may be unexpected on classic launch
-* [ ] Bag of the Tinkers is found on Marfen Binkdurple in Solusek's Eye
+* [ ] Bag of the Tinkers is sold by Marfen Binkdurple in Solusek's Eye
 #### Items obtainable only during classic
 Please note that on live, some of these items were retroactively nerfed, removing the prenerf version. However, everything listed below will have a prenerf instance that retains it's stats forever until you manually patch it.
 * [ ] Lustrous Russet drops in Plane of Fear until Kunark
