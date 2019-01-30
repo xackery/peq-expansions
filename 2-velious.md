@@ -28,3 +28,4 @@ This introduces the Kunark expansion.
 #### Items that may be unexpected on Velious
 * [ ] Donal's Chestplate of Mourning was retroactively nerfed on live during Velious, apply this [nerf with 7 minute recast delay](https://github.com/xackery/peq-expansions/blob/master/1/donals-chestplate-of-mourning-7min.sql) to make this happen as well.
 #### Items obtainable only during Velious
+* [ ] Breezeboot's Frigid Gnasher from The Pirate Ship quest until Luclin. On live this was only available for about the first month, [nerf by removing Seaworthy_Planking ground spawn](https://github.com/xackery/peq-expansions/blob/master/2/breezeboots-frigid-gnasher-seaworthy-planking-disable.sql)
