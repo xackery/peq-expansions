@@ -23,7 +23,7 @@ This introduces the Kunark expansion.
 #### Items that may be unexpected on Kunark
 None at this time
 #### Items obtainable only during Kunark
-* [ ] Fungus Covered Great Staff dropps from myconid spore king in Sebilis until Velious
+* [ ] Fungus Covered Great Staff drops from myconid spore king in Sebilis until Velious
 * [ ] Robe of Living Fungus drops from myconid spore king in Sebilis until Velious
 * [ ] Gem Encrusted Ring drops from giants in Burning Woods and Frontier Mountains until Velious
 * [ ] Totem of the Wizened Spirits drops from Grachnist the Destroyer in Warliks Woods until Velious
