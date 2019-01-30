@@ -29,3 +29,24 @@ This introduces the Kunark expansion.
 * [ ] Donal's Chestplate of Mourning was retroactively nerfed on live during Velious, apply this [nerf with 7 minute recast delay](https://github.com/xackery/peq-expansions/blob/master/1/donals-chestplate-of-mourning-7min.sql) to make this happen as well.
 #### Items obtainable only during Velious
 * [ ] Breezeboot's Frigid Gnasher from The Pirate Ship quest until Luclin. On live this was only available for about the first month, [nerf by removing Seaworthy_Planking ground spawn](https://github.com/xackery/peq-expansions/blob/master/2/breezeboots-frigid-gnasher-seaworthy-planking-disable.sql)
+* [ ] Holgresh Elder Beads from an elder holgresh in Wakening Land until Luclin
+* [ ] Ornate Velium Pendant (unlimited charges version) from Councillers in Icewell Keep
+* [ ] 
+### Items obtainable until Sleeper is awoken
+* [ ] Blue Resistance Stone
+* [ ] Clawed Guardian Bracer
+* [ ] Dainty Gloves
+* [ ] Dragon Scaled Mask
+* [ ] Green Resistance Stone
+* [ ] Mask of Tinkering
+* [ ] Red Resistance Stone
+* [ ] Salindrite Dagger
+* [ ] Sceptre of Destruction
+* [ ] Shield of the Clawed Guardian
+* [ ] Shroud of Longevity
+* [ ] Smolder
+* [ ] Staff of the Elder Claws
+* [ ] Staff of the Morning Dew
+* [ ] White Resistance Stone
+* [ ] Writ of Dragonkind
+* [ ] Primal (drop rate changed from zone wide to TFA and TP rares)
