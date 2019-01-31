@@ -1,7 +1,7 @@
 Visit [bard spell list](http://mqemulator.net/spells.php?name=&class=8&minlevel=&maxlevel=&spelleffect=&isearch=Search) for spell list alphabetical
 
 
-SpellID|ItemID|Name|MinExpansion|MaxExpansion|Note|
+SpellID|ItemID|Name|Min|Max|Note|
 |---|---|---|---|---|---|
 |10413|78750|Aelfric's Last Lullaby||99
 |10414|78751|Aelfric's Last Lullaby Rk. II||99
