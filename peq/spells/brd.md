@@ -18,7 +18,8 @@ SpellID|ItemID|Name|MinExpansion|MaxExpansion|Note|
 |1197|26623|Ancient: Lullaby of Shadow||99
 |706|15706|Angstlich's Appalling Screech||99
 |1748|19466|Angstlich's Assonance||99
-|7001|77853,77884|Angstlich's Echo of Terror||99
+|7001|77884|Angstlich's Echo of Terror||99
+|7001|77853|Angstlich's Echo of Terror||99
 |7002|77854|Angstlich's Wail of Panic||99
 |701|15701|Anthem de Arms||99
 |14081|115081|Arcane Anthem||99
