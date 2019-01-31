@@ -1,3 +1,3 @@
-# PEQ sql edits
+# PEQ TODO edits
 
-This is just a temporary listing of SQL edits that will need to be added at a later date.
+This is a collection of notes and sql files to later be injected into PEQ once adequitely prepared. Once we add it to PEQ, we should likely remove the .sql files.
