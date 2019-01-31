@@ -1,8 +1,8 @@
 ## Classic Everquest
 
 ### Notes to server owners
-* [ ] Plane of Hate is by default enabled with classic Everquest era. Use these links to [disable](https://github.com/xackery/peq-expansions/blob/master/0/hateplane-disable.sql) hateplane, then [enable](https://github.com/xackery/peq-expansions/blob/master/0/hateplane-disable.sql) manually
-* [ ] Plane of Fear is by default enabled with classic Everquest era. Use these links to [disable](https://github.com/xackery/peq-expansions/blob/master/0/fearplane-disable.sql) fearplane, then [enable](https://github.com/xackery/peq-expansions/blob/master/0/fearplane-disable.sql) manually
+* [ ] Plane of Hate is by default enabled with classic Everquest era. ([disable](https://github.com/xackery/peq-expansions/blob/master/0/hateplane-disable.sql)), ([enable](https://github.com/xackery/peq-expansions/blob/master/0/hateplane-disable.sql))
+* [ ] Plane of Fear is by default enabled with classic Everquest era. ([disable](https://github.com/xackery/peq-expansions/blob/master/0/fearplane-disable.sql)), ([enable](https://github.com/xackery/peq-expansions/blob/master/0/fearplane-disable.sql))
 #### Spawnable GM Event NPCs
 * [ ] Mayong Mistmoore which drops Fanged Skull Stiletto - Classically, this was a 1 time GM event
 
