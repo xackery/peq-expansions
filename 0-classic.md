@@ -1,5 +1,7 @@
 ## Classic Everquest
 
+Items to review for nerfing - https://www.project1999.com/forums/showthread.php?t=136625&page=3
+
 ### Notes to server owners
 * [ ] Plane of Hate is by default enabled with classic Everquest era. ([disable](https://github.com/xackery/peq-expansions/blob/master/0/hateplane-disable.sql)), ([enable](https://github.com/xackery/peq-expansions/blob/master/0/hateplane-disable.sql))
 * [ ] Plane of Fear is by default enabled with classic Everquest era. ([disable](https://github.com/xackery/peq-expansions/blob/master/0/fearplane-disable.sql)), ([enable](https://github.com/xackery/peq-expansions/blob/master/0/fearplane-disable.sql))
