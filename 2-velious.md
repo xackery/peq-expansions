@@ -3,7 +3,7 @@
 ### Notes to server owners
 None at this time
 #### Spawnable GM Event NPCs
-None at this time
+* [ ] Al`Kabor's Propylon of the Nexus - GM Event towards luclin release
 
 ### Changelog
 This introduces the Kunark expansion.
