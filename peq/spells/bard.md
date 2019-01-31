@@ -1,4 +1,4 @@
-Visit [http://mqemulator.net/spells.php?name=&class=8&minlevel=&maxlevel=&spelleffect=&isearch=Search](this link) for spell list alphabetical
+Visit [bard spell list](http://mqemulator.net/spells.php?name=&class=8&minlevel=&maxlevel=&spelleffect=&isearch=Search) for spell list alphabetical
 
 
 ItemID|Name|MinExpansion|MaxExpansion|Note|
