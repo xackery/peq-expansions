@@ -7,7 +7,7 @@ Items to review for nerfing - https://www.project1999.com/forums/showthread.php?
 * [ ] Plane of Fear is by default enabled with classic Everquest era. ([disable](https://github.com/xackery/peq-expansions/blob/master/0/fearplane-disable.sql)), ([enable](https://github.com/xackery/peq-expansions/blob/master/0/fearplane-disable.sql))
 #### Spawnable GM Event NPCs
 * [ ] Mayong Mistmoore which drops Fanged Skull Stiletto - Classically, this was a 1 time GM event
-
+* [ ] GM Event - Oakwynd - Before Kunark launch (artifact, rewarded to 1 Ranger)
 
 ### Changelog
 Only content seen before Kunark's release should be found. Some liberties were taken to simplify era-based snapshots
