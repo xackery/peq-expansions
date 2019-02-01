@@ -1,7 +1,9 @@
 ## Kunark Expansion
 
 ### Notes to server owners
-None at this time
+
+* Please run the [rules.sql](https://github.com/xackery/peq-expansions/blob/master/1/rules.sql) file to increase cap from 50 to 60.
+
 #### Spawnable GM Event NPCs
 None at this time
 
