@@ -1,7 +1,7 @@
 ## Planes of Power Expansion
 
 ### Notes to server owners
-Run [rules.sql](https://github.com/xackery/peq-expansions/blob/master/4/rules.sql) to adjust level to 65 among other adjustments.
+* Run [rules.sql](https://github.com/xackery/peq-expansions/blob/master/4/rules.sql) to adjust level to 65 among other adjustments.
 
 #### Spawnable GM Event NPCs
 None at this time
