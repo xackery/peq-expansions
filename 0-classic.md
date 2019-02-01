@@ -1,6 +1,8 @@
 ## Classic Everquest
 
-Items to review for nerfing - https://www.project1999.com/forums/showthread.php?t=136625&page=3
+* [ ] (Self note/TODO for shin) Items to review for nerfing - https://www.project1999.com/forums/showthread.php?t=136625&page=
+
+Classic disables many features that PEQ's baseline offers. I recommend you review line by line and and run the [rules file](https://github.com/xackery/peq-expansions/blob/master/0/rules.sql) to set PEQ to a classic-expansion era. If you plan to use a future expansion, I still recommend running this to set a baseline.
 
 ### Notes to server owners
 * [ ] Plane of Hate is by default enabled with classic Everquest era. ([disable](https://github.com/xackery/peq-expansions/blob/master/0/hateplane-disable.sql)), ([enable](https://github.com/xackery/peq-expansions/blob/master/0/hateplane-disable.sql))
