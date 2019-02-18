@@ -3,10 +3,10 @@ Visit [bard spell list](http://mqemulator.net/spells.php?name=&class=8&minlevel=
 
 SpellID|ItemID|Name|Min|Max|Note|
 |---|---|---|---|---|---|
-|10413|78750|Aelfric's Last Lullaby||99
-|10414|78751|Aelfric's Last Lullaby Rk. II||99
-|10415|15718|Aelfric's Last Lullaby Rk. III||99
-|718|15718|Agilmente's Aria of Eagles||99
+|10413|78750|Aelfric's Last Lullaby|12|99
+|10414|78751|Aelfric's Last Lullaby Rk. II|12|99
+|10415|15718|Aelfric's Last Lullaby Rk. III|12|99
+|718|15718|Agilmente's Aria of Eagles|0|99
 |727|15727|Alenia's Disenchanting Melody||99
 |14003|115003|Amber's Last Lullaby||99
 |14004|115004|Amber's Last Lullaby Rk. II||99
