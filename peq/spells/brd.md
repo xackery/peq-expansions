@@ -7,16 +7,16 @@ SpellID|ItemID|Name|Min|Max|Note|
 |10414|78751|Aelfric's Last Lullaby Rk. II|12|99
 |10415|15718|Aelfric's Last Lullaby Rk. III|12|99
 |718|15718|Agilmente's Aria of Eagles|0|99
-|727|15727|Alenia's Disenchanting Melody||99
-|14003|115003|Amber's Last Lullaby||99
-|14004|115004|Amber's Last Lullaby Rk. II||99
-|14005|115005|Amber's Last Lullaby Rk. III||99
-|2603|7703|Amplification||99
-|5388|77127|Ancient: Call of Power||99
-|4971|59846|Ancient: Chaos Chant||99
-|1196|26622|Ancient: Lcea's Lament||99
-|1197|26623|Ancient: Lullaby of Shadow||99
-|706|15706|Angstlich's Appalling Screech||99
+|727|15727|Alenia's Disenchanting Melody|0|99
+|14003|115003|Amber's Last Lullaby|14|99
+|14004|115004|Amber's Last Lullaby Rk. II|14|99
+|14005|115005|Amber's Last Lullaby Rk. III|14|99
+|2603|7703|Amplification|3|99
+|5388|77127|Ancient: Call of Power|8|99
+|4971|59846|Ancient: Chaos Chant|7|99
+|1196|26622|Ancient: Lcea's Lament|2|99
+|1197|26623|Ancient: Lullaby of Shadow|3|99
+|706|15706|Angstlich's Appalling Screech|0|99
 |1748|19466|Angstlich's Assonance||99
 |7001|77884|Angstlich's Echo of Terror||99
 |7001|77853|Angstlich's Echo of Terror||99
