@@ -5,7 +5,7 @@ SpellID|ItemID|Name|Min|Max|Note|
 |---|---|---|---|---|---|
 |10413|78750|Aelfric's Last Lullaby|12|99
 |10414|78751|Aelfric's Last Lullaby Rk. II|12|99
-|10415|15718|Aelfric's Last Lullaby Rk. III||99
+|10415|15718|Aelfric's Last Lullaby Rk. III|12|99| Assumed 12 because of Ranks 1 and 2 - unable to find expansion information|
 |718|15718|Agilmente's Aria of Eagles|0|99
 |727|15727|Alenia's Disenchanting Melody|0|99
 |14003|115003|Amber's Last Lullaby|14|99
@@ -42,7 +42,7 @@ SpellID|ItemID|Name|Min|Max|Note|
 |2606||Battlecry of the Vah Shir|3|99|
 |10449||Beckon of the Tuffein|12|99|
 |10450||Beckon of the Tuffein Rk. II|12|99|
-|10451||Beckon of the Tuffein Rk. III||99|
+|10451||Beckon of the Tuffein Rk. III|12|99| Assumed 12 because of ranks 1 and 2 - unable to find expansion information |
 |5372||Bellow of Chaos|8|99|
 |704||Brusco's Boastful Bellow|0|99|
 |1747||Brusco's Bombastic Bellow|1|99|
@@ -127,9 +127,9 @@ SpellID|ItemID|Name|Min|Max|Note|
 |10434||Fermata of Preservation|12|99|
 |10435||Fermata of Preservation Rk. II|12|99|
 |10436||Fermata of Preservation Rk. III|12|99|
-|4085||Forpar's Aria of Affliction||99|
-|4086||Forpar's Psalm of Pain||99|
-|4087||Forpar's Verse of Venom||99|
+|4085||Forpar's Aria of Affliction||99| Not a player spell (clicky, npc, proc) |
+|4086||Forpar's Psalm of Pain||99| Not a player spell (clicky, npc, proc) |
+|4087||Forpar's Verse of Venom||99| Not a player spell (clicky, npc, proc)|
 |707||Fufil's Curtailing Chant|0|99|
 |4210||Fufil's Diminishing Dirge|6|99|
 |14012||Garadell's Fatesong|14|99|
@@ -148,7 +148,7 @@ SpellID|ItemID|Name|Min|Max|Note|
 |14040||Kaerra's Spirited Crescendo Rk. II|14|99|
 |14041||Kaerra's Spirited Crescendo Rk. III|14|99|
 |2604||Katta's Song of Sword Dancing|3|99|
-|2834||Blade Dance||99|
+|2834||Blade Dance|3|99| Proc Triggered by spell: Katta's Song of Sword Dancing (Expansion 3 - Luclin) |
 |1749||Kazumi's Note of Preservation|1|99|
 |724||Kelin's Lucid Lullaby|0|99|
 |728||Kelin's Lugubrious Lament|0|99|
@@ -197,7 +197,7 @@ SpellID|ItemID|Name|Min|Max|Note|
 |711||Purifying Rhythms|0|99|
 |10455||Queen Eletyl's Screech|12|99|
 |10456||Queen Eletyl's Screech Rk. II|12|99|
-|10457||Queen Eletyl's Screech Rk. III||99|
+|10457||Queen Eletyl's Screech Rk. III|12|99| Assumed 12 because of Ranks 1 and 2 - unable to find expansion information |
 |3066||Requiem of Time|4|99|
 |4585||Resistant Discipline|0|99|
 |14075||Rhythm of Restoration|14|99|
@@ -230,9 +230,9 @@ SpellID|ItemID|Name|Min|Max|Note|
 |2602||Song of Sustenance|3|99|
 |10437||Song of the Dryads|12|99|
 |10438||Song of the Dryads Rk. II|12|99|
-|10439||Song of the Dryads Rk. III||99|
+|10439||Song of the Dryads Rk. III|12|99| Assumed 12 because of Ranks 1 and 2 - unable to find expansion information |
 |6734||Song of the Storm|9|99|
-|6742||Song of the Storm Strike||99|
+|6742||Song of the Storm Strike|9|99| Proc Triggered by Spell: Song of the Storm |
 |1753||Song of Twilight|1|99|
 |11876||Staccato Cadence|13|99|
 |11877||Staccato Cadence Rk. II|13|99|
@@ -241,13 +241,13 @@ SpellID|ItemID|Name|Min|Max|Note|
 |10459||Staccato Rhythms Rk. II|12|99|
 |10460||Staccato Rhythms Rk. III|12|99|
 |6666||Storm Blade|9|99|
-|6674||Storm Blade Strike||99|
+|6674||Storm Blade Strike|9|99| Proc Triggered by Spell: Storm Blade |
 |726||Syvelian's Anti-Magic Aria|0|99|
 |729||Tarew's Aquatic Ayre|0|99|
 |8030||Thousand Blades|10|99|
 |14072||Tjudawos' Chant of Flame|14|99|
 |14073||Tjudawos' Chant of Flame Rk. II|14|99|
-|14074||Tjudawos' Chant of Flame Rk. III||99|
+|14074||Tjudawos' Chant of Flame Rk. III|14|99| Assumed 14 because of Ranks 1 and 2 - unable to find expansion information |
 |3567||Tuyen's Chant of Disease|4|99|
 |3367||Tuyen's Chant of Fire|4|99|
 |743||Tuyen's Chant of Flame|0|99|
@@ -284,7 +284,7 @@ SpellID|ItemID|Name|Min|Max|Note|
 |10433||Weshlu's Chillsong Aria Rk. III|12|99|
 |10401||Whispersong of Veshma|12|99|
 |10402||Whispersong of Veshma Rk. II|12|99|
-|10403||Whispersong of Veshma Rk. III||99|
+|10403||Whispersong of Veshma Rk. III|12|99| Assumed 12 because of Ranks 1 and 2 - unable to find expansion information |
 |3651||Wind of Marr|4|99|
 |5380||Yelhun's Mystic Call|8|99|
 |14030||Yowl of the Bloodmoon|14|99|
