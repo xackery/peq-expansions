@@ -1,7 +1,5 @@
 ## Classic Everquest
 
-* [ ] (Self note/TODO for shin) Items to review for nerfing - https://www.project1999.com/forums/showthread.php?t=136625&page=
-
 * Please run [rules.sql](https://github.com/xackery/peq-expansions/blob/master/0/rules.sql) to enable in-era adjustments.
 
 ### Notes to server owners
