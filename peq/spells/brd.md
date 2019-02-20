@@ -127,9 +127,9 @@ SpellID|ItemID|Name|Min|Max|Note|
 |10434||Fermata of Preservation|12|99|
 |10435||Fermata of Preservation Rk. II|12|99|
 |10436||Fermata of Preservation Rk. III|12|99|
-|4085||Forpar's Aria of Affliction||99| Not a player spell (clicky, npc, proc) |
-|4086||Forpar's Psalm of Pain||99| Not a player spell (clicky, npc, proc) |
-|4087||Forpar's Verse of Venom||99| Not a player spell (clicky, npc, proc)|
+|4085||Forpar's Aria of Affliction|6|99| First seen August 6 2003; End of Exp. 5, 1 month before Exp. 6; Not a player spell (clicky, npc, proc) |
+|4086||Forpar's Psalm of Pain|6|99|First seen August 6 2003; End of Exp. 5, 1 month before Exp. 6; Not a player spell (clicky, npc, proc) |
+|4087||Forpar's Verse of Venom|6|99| First seen August 6 2003; End of Exp. 5, 1 month before Exp. 6; Not a player spell (clicky, npc, proc) |
 |707||Fufil's Curtailing Chant|0|99|
 |4210||Fufil's Diminishing Dirge|6|99|
 |14012||Garadell's Fatesong|14|99|
