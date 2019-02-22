@@ -31,7 +31,7 @@ Visit [berserker spell list](http://mqemulator.net/spells.php?name=&class=16&min
 | 8477 | None | Bloodlust Aura |11| 99 | |
 | 4948 | None | Bloodseeker's Axe |7| 99 | |
 | 8476 | None | Bloodthirst |11| 99 | |
-| 8869 | None | Bloodthirst Effect || 99 | Proc Spell Triggered by BloodThirst |
+| 8869 | None | Bloodthirst Effect |11| 99 | Proc Spell Triggered by BloodThirst |
 | 4938 | None | Blunt Axe |7| 99 | |
 | 4943 | None | Bonesplicer Axe |7| 99 | |
 | 5034 | None | Burning Rage Discipline |7| 99 | |
@@ -58,7 +58,7 @@ Visit [berserker spell list](http://mqemulator.net/spells.php?name=&class=16&min
 | 4932 | None | Head Pummel |7| 99 | |
 | 4931 | None | Head Strike |7| 99 | |
 | 4687 | None | Healing Will Discipline |7| 99 | |
-| 6207 | None | Increased Damage Effect | | 99 | Proc Spell Triggered by Unpredictable Rage Discipline (SpellID: 6200) |
+| 6207 | None | Increased Damage Effect |7| 99 | Proc Spell Triggered by Unpredictable Rage Discipline (SpellID: 6200) |
 | 5042 | None | Indomitable Discipline |7| 99 | |
 | 5039 | None | Inspired Anger Discipline |7| 99 | |
 | 14186 | None | Jarring Smash |14| 99 | |
@@ -66,7 +66,7 @@ Visit [berserker spell list](http://mqemulator.net/spells.php?name=&class=16&min
 | 14188 | None | Jarring Smash Rk. III |14| 99 | |
 | 10920 | None | Jarring Strike |12| 99 | |
 | 10921 | None | Jarring Strike Rk. II |12| 99 | |
-| 10922 | None | Jarring Strike Rk. III || 99 | |
+| 10922 | None | Jarring Strike Rk. III |12| 99 | |
 | 4929 | None | Leg Cut |7| 99 | |
 | 4930 | None | Leg Slice |7| 99 | |
 | 4928 | None | Leg Strike |7| 99 | |
@@ -91,7 +91,7 @@ Visit [berserker spell list](http://mqemulator.net/spells.php?name=&class=16&min
 | 14185 | None | Temple Strike Rk. III |14| 99 | |
 | 10908 | None | Tendon Cleave |12| 99 | |
 | 10909 | None | Tendon Cleave Rk. II |12| 99 | |
-| 10910 | None | Tendon Cleave Rk. III || 99 | |
+| 10910 | None | Tendon Cleave Rk. III |12| 99 | |
 | 14177 | None | Tendon Sever |14| 99 | |
 | 14178 | None | Tendon Sever Rk. II |14| 99 | |
 | 14179 | None | Tendon Sever Rk. III |14| 99 | |
@@ -100,7 +100,7 @@ Visit [berserker spell list](http://mqemulator.net/spells.php?name=&class=16&min
 | 14194 | None | Third Wind Rk. III |14| 99 | |
 | 5225 | None | Throw Stone |0| 99 | |
 | 6201 | None | Unflinching Will Discipline |8| 99 | |
-| 6200 | None | Unpredictable Rage Discipline | | 99 | Triggers: Increase Damage Effect (SpellID: 6207) |
+| 6200 | None | Unpredictable Rage Discipline |8| 99 | Triggers: Increase Damage Effect (SpellID: 6207) |
 | 10914 | None | Unsettling Scream |12| 99 | |
 | 10915 | None | Unsettling Scream Rk. II |12| 99 | |
 | 10916 | None | Unsettling Scream Rk. III |12| 99 | |
