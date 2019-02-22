@@ -1,4 +1,4 @@
-Visit [beastlord spell list](http://mqemulator.net/spells.php?name=&class=8&minlevel=&maxlevel=&spelleffect=&isearch=Search) for spell list alphabetical
+Visit [beastlord spell list](http://mqemulator.net/spells.php?name=&class=15&minlevel=&maxlevel=&spelleffect=&isearch=Search) for spell list alphabetical
 
 | SpellID | ItemID | Name | Min | Max | Note |
 |---------|--------|------|-----|-----|------|
@@ -11,9 +11,9 @@ Visit [beastlord spell list](http://mqemulator.net/spells.php?name=&class=8&minl
 | 1526 | 19207 | Annul Magic |1|99| |
 | 3458 | 28549 | Arag's Celerity |4|99| |
 | 11869 | 79411 | Bark at the Moon |13|99| |
-| 11933 | None | Bark at the Moon Call ||99| |
-| 11934 | None | Bark at the Moon Call Rk. II ||99| |
-| 11935 | None | Bark at the Moon Call Rk. III ||99| |
+| 11933 | None | Bark at the Moon Call | 13 |99| Proc Triggered by Spell: Bark at the Moon |
+| 11934 | None | Bark at the Moon Call Rk. II | 13 |99 | Proc Triggered by Spell: Bark at the Moon|
+| 11935 | None | Bark at the Moon Call Rk. III | 13 |99 |Proc Triggered by Spell: Bark at the Moon |
 | 11870 | 79412 | Bark at the Moon Rk. II |13|99| |
 | 11871 | 79413 | Bark at the Moon Rk. III |13|99| |
 | 14154 | None | Baying at the Moon ||99| |
