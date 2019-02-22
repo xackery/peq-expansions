@@ -1,7 +1,9 @@
 Visit [beastlord spell list](http://mqemulator.net/spells.php?name=&class=8&minlevel=&maxlevel=&spelleffect=&isearch=Search) for spell list alphabetical
 
 
-| SpellID | ItemID | Name | Min | Max | Note ||---------|--------|------|-----|-----|------|| 98 | 15098 | Abolish Disease | | | |
+| SpellID | ItemID | Name | Min | Max | Note |
+|---------|--------|------|-----|-----|------|
+| 98 | 15098 | Abolish Disease | | | |
 | 1575 | 19278 | Acumen | | | |
 | 2622 | 7722 | Aid of Khurenz | | | |
 | 170 | 15170 | Alacrity | | | |
