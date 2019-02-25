@@ -1,15 +1,10 @@
 Visit [berserker spell list](http://mqemulator.net/spells.php?name=&class=16&minlevel=&maxlevel=&spelleffect=&isearch=Search) for spell list alphabetical
 
 
-
 ItemID's are for Tome of {Name}, or Skill: {Name}.
 
-
-
 | SpellID | ItemID | Name | Min | Max | Note |
-
 |---------|--------|------|-----|-----|------|
-
 | 14180 |115180| Agitating Scream |14| 99 | Sold by Kedem Teague (Loping Plains) |
 | 14181 |115181| Agitating Scream Rk. II |14| 99 | Droppable in Loping Plains |
 | 14182 |115182| Agitating Scream Rk. III |14| 99 | |
@@ -110,7 +105,6 @@ ItemID's are for Tome of {Name}, or Skill: {Name}.
 | 5225 |59973| Throw Stone |0| 99 | |
 | 6201 |77675| Unflinching Will Discipline |8| 99 | Researched (354); Sold in PoK by Kurlond Axebringer; Quested in Dranik's Scar by Karsor the Mad; Droppable in OoW zones |
 | 6200 | 77296 | Unpredictable Rage Discipline | 8 | 99 | Researched (339), Sold in PoK by Kurlond Axebringer, Quested in Dranik's Scar by Karsor the Mad; Droppable in OoW zones; Triggers: Increase Damage Effect (SpellID: 6207) |
-
 | 10914 |79251| Unsettling Scream |12| 99 | Sold by Sensei Splitscale in Sunderock Springs |
 | 10915 |79252| Unsettling Scream Rk. II |12| 99 | Dropped in Serpent Spine zones |
 | 10916 |79253| Unsettling Scream Rk. III |12| 99 | |
