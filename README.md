@@ -12,7 +12,7 @@ As a server owner, please use this listing before enabling an expansion to revie
 Expansion list
 ---
 
-* [0 - Classic](https://github.com/xackery/peq-expansions/blob/master/0-classic.md) - Released in 1999
+* [0 - Classic](https://github.com/xackery/peq-expansions/blob/master/0-classic.md) Released in 1999
 * [1 - Kunark](https://github.com/xackery/peq-expansions/blob/master/1-kunark.md) Released in 2000, level cap 60
 * [2 - Velious](https://github.com/xackery/peq-expansions/blob/master/2-velious.md) Released in 2000
 * [3 - The Shadows of Luclin](https://github.com/xackery/peq-expansions/blob/master/3-luclin.md) Released in 2001
