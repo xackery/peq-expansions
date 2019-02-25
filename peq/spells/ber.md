@@ -37,9 +37,9 @@ ItemID's are for Tome of {Name}.
 | 4938 | 59893 | Blunt Axe |7| 99 | |
 | 4943 | 59898 | Bonesplicer Axe |7| 99 | |
 | 5034 | 59921 | Burning Rage Discipline |7| 99 | |
-| 5043 | None | Cleaving Anger Discipline |7| 99 | |
-| 5037 | None | Cleaving Rage Discipline |7| 99 | |
-| 4945 | None | Cold Steel Cleaving Axe |7| 99 | |
+| 5043 | 59930 | Cleaving Anger Discipline |7| 99 | Sold (numerous)  |
+| 5037 | 59924 | Cleaving Rage Discipline |7| 99 | Sold (numerous) |
+| 4945 | 59900 | Cold Steel Cleaving Axe |7| 99 | Sold (numerous) |
 | 4936 | None | Confusing Strike |7| 99 | |
 | 4937 | None | Corroded Axe |7| 99 | |
 | 6169 | None | Crippling Strike |8| 99 | Quested; Droppable |
