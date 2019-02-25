@@ -4,10 +4,10 @@ ItemID's are for Tome of {Name}.
 
 | SpellID | ItemID | Name | Min | Max | Note |
 |---------|--------|------|-----|-----|------|
-| 14180 | 115180 | Agitating Scream |14| 99 | |
-| 14181 | 115181 | Agitating Scream Rk. II |14| 99 | |
+| 14180 | 115180 | Agitating Scream |14| 99 | Sold by Kedem Teague (Loping Plains) |
+| 14181 | 115181 | Agitating Scream Rk. II |14| 99 | Droppable in Loping Plains |
 | 14182 | 115182 | Agitating Scream Rk. III |14| 99 | |
-| 5032 | 59919 | Ancient: Cry of Chaos |7| 99 | |
+| 5032 | 59919 | Ancient: Cry of Chaos |7| 99 | Quested in Abysmal Sea by Reyfin Malakwa |
 | 11928 | 79450 | Annihilator's Volley |13| 99 | |
 | 11929 | 79451 | Annihilator's Volley Rk. II |13| 99 | |
 | 11930 | 79452 | Annihilator's Volley Rk. III |13| 99 | |
@@ -101,11 +101,11 @@ ItemID's are for Tome of {Name}.
 | 14193 | None | Third Wind Rk. II |14| 99 | |
 | 14194 | None | Third Wind Rk. III |14| 99 | |
 | 5225 | None | Throw Stone |0| 99 | |
-| 6201 | None | Unflinching Will Discipline |8| 99 | Quested; Droppable |
-| 6200 | None | Unpredictable Rage Discipline | | 99 | Quested; Triggers: Increase Damage Effect (SpellID: 6207) |
-| 10914 | None | Unsettling Scream |12| 99 | |
-| 10915 | None | Unsettling Scream Rk. II |12| 99 | |
-| 10916 | None | Unsettling Scream Rk. III |12| 99 | |
-| 6199 | None | Vengeful Flurry Discipline |8| 99 | Quested; Droppable |
-| 5028 | None | War Cry |7| 99 | |
-| 5030 | None | War Cry of Dravel |7| 99 | |
+| 6201 | 77675 | Unflinching Will Discipline |8| 99 | Researched (354); Sold in PoK by Kurlond Axebringer; Quested in Dranik's Scar by Karsor the Mad; Droppable in OoW zones |
+| 6200 | 77296 | Unpredictable Rage Discipline | 8 | 99 | Researched (339), Sold in PoK by Kurlond Axebringer, Quested in Dranik's Scar by Karsor the Mad; Droppable in OoW zones; Triggers: Increase Damage Effect (SpellID: 6207) |
+| 10914 | 79251 | Unsettling Scream |12| 99 | Sold by Sensei Splitscale in Sunderock Springs |
+| 10915 | 79252 | Unsettling Scream Rk. II |12| 99 | Dropped in Serpent Spine zones |
+| 10916 | 79253 | Unsettling Scream Rk. III |12| 99 | |
+| 6199 | 77295 | Vengeful Flurry Discipline |8| 99 | Researched (372); Sold in PoK by Kurlond Axebringer |
+| 5028 | 59915 | War Cry |7| 99 | |
+| 5030 | 59917 | War Cry of Dravel |7| 99 | |
