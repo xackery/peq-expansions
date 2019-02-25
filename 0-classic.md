@@ -18,7 +18,7 @@ Only content seen before Kunark's release should be found. Some liberties were t
 * [ ] Box of Abu-Kar is a global rare drop off mobs level 35+ until Kunark
 * [ ] Rubicite will drop in Cazic thule until Kunark
 * [ ] Guise of the Deceiver in Lower Guk until Kunark 
-* [ ] Terror Forged Mask* from the The Summoning Terror Quest in Paineel has the effect "Fear" instead of "Call of Bones" until Kunark ([fix prenerf instance](https://github.com/xackery/peq-expansions/blob/master/0/terror-forged-mask-prenerf.sql))
+* [ ] Terror Forged Mask* from the The Summoning Terror Quest in Paineel has the effect "Fear" instead of "Call of Bones" until Kunark ([soft nerf](https://github.com/xackery/peq-expansions/blob/master/0/terror-forged-mask-soft-nerf.sql), [hard nerf](https://github.com/xackery/peq-expansions/blob/master/0/terror-forged-mask-hard-nerf.sql))
 * [ ] Manastone will drop from Evil Eye until Kunark
 * [ ] Scimitar of the Mistwalker will drop from Lady Vox until Kunark
 * [ ] Thex Dagger from the Thex Dagger Quest in Highpass until Kunark
