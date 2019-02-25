@@ -12,13 +12,13 @@ Visit [beastlord spell list](http://mqemulator.net/spells.php?name=&class=15&min
 | 3458 | 28549 | Arag's Celerity |4|99| |
 | 11869 | 79411 | Bark at the Moon |13|99| |
 | 11933 | None | Bark at the Moon Call | 13 |99| Proc Triggered by Spell: Bark at the Moon |
-| 11934 | None | Bark at the Moon Call Rk. II | 13 |99 | Proc Triggered by Spell: Bark at the Moon|
+| 11934 | None | Bark at the Moon Call Rk. II | 13 |99 |Proc Triggered by Spell: Bark at the Moon|
 | 11935 | None | Bark at the Moon Call Rk. III | 13 |99 |Proc Triggered by Spell: Bark at the Moon |
 | 11870 | 79412 | Bark at the Moon Rk. II |13|99| |
 | 11871 | 79413 | Bark at the Moon Rk. III |13|99| |
-| 14154 | None | Baying at the Moon ||99| |
+| 14154 | None | Baying at the Moon |13|99|Proc Triggered by Spells: Howl at the Moon (Rk. I, II, III) |
 | 8021 | 41283 | Bestial Empathy |10|99| |
-| 4678 | None | Bestial Fury Discipline |3|99| |
+| 4678 | 66221 | Bestial Fury Discipline |3|99| |
 | 14145 | 115145 | Bite of the Borrower |14|99| |
 | 14146 | 115146 | Bite of the Borrower Rk. II |14|99| |
 | 14147 | 115147 | Bite of the Borrower Rk. III |14|99| |
