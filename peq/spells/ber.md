@@ -62,7 +62,6 @@ ItemID's are for Tome of {Name}, or Skill: {Name}.
 | 4931 |59886| Head Strike |7| 99 | |
 | 4687 |66410| Healing Will Discipline |7| 99 | |
 | 6207 | None | Increased Damage Effect | | 99 | Proc Spell Triggered by Unpredictable Rage Discipline (SpellID: 6200) |
-
 | 5042 |59929| Indomitable Discipline |7| 99 | |
 | 5039 |59926| Inspired Anger Discipline |7| 99 | |
 | 14186 |115186| Jarring Smash |14| 99 | |
