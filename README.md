@@ -9,7 +9,8 @@ As a server owner, please use this listing before enabling an expansion to revie
 * **soft nerf**: once applied, only future drops of the item will be nerfed. Any past items will stay unnerfed. A classic example of this is the Circlet of Shadow vs Circlet of Shadows, where the prenerf version remained instant cast when the patch was applied to give it a cast time with the plural form.
 * **hard nerf**: once applied, both future drops of the item and existing drops will have the nerf applied.
 
-
+Expansion list
+---
 
 * [0 - Classic](https://github.com/xackery/peq-expansions/blob/master/0-classic.md) - Released in 1999
 * [1 - Kunark](https://github.com/xackery/peq-expansions/blob/master/1-kunark.md) Released in 2000, level cap 60
