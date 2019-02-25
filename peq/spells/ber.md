@@ -11,39 +11,39 @@ ItemID's are for Tome of {Name}.
 | 11928 | 79450 | Annihilator's Volley |13| 99 | |
 | 11929 | 79451 | Annihilator's Volley Rk. II |13| 99 | |
 | 11930 | 79452 | Annihilator's Volley Rk. III |13| 99 | |
-| 8924 | 78022 | Aura of Rage |11| 99 | |
+| 8924 | 78022 | Aura of Rage |11| 99 | Quested: "Challice of Life" - Lilthill'yan's Ghost in Ruins of Takish-Hiz |
 | 10907 | 79244 | Axe of the Annihilator |12| 99 | |
 | 14176 | 115176 | Axe of the Decimator |14| 99 | |
-| 6172 | None | Axe of the Destroyer |8| 99 | |
-| 6171 | None | Baffling Strike |8| 99 | |
-| 4942 | None | Balanced War Axe |7| 99 | |
-| 5027 | None | Battle Cry |7| 99 | |
-| 5029 | None | Battle Cry of Dravel |7| 99 | |
-| 5031 | None | Battle Cry of the Mastruq |7| 99 | |
-| 5038 | None | Battle Focus Discipline |7| 99 | |
-| 14198 | None | Battle Frenzy |14| 99 | |
-| 14199 | None | Battle Frenzy Rk. II |14| 99 | |
-| 14200 | None | Battle Frenzy Rk. III |14| 99 | |
-| 4949 | None | Battlerage Axe |7| 99 | |
-| 4940 | None | Bearded Axe |7| 99 | |
-| 10923 | None | Berserking Discipline |12| 99 | |
-| 10924 | None | Berserking Discipline Rk. II |12| 99 | |
-| 10925 | None | Berserking Discipline Rk. III |12| 99 | |
-| 5041 | None | Blind Rage Discipline |7| 99 | |
-| 8477 | None | Bloodlust Aura |11| 99 | |
-| 4948 | None | Bloodseeker's Axe |7| 99 | |
-| 8476 | None | Bloodthirst |11| 99 | |
+| 6172 | 77300 | Axe of the Destroyer |8| 99 | Quested; Droppable |
+| 6171 | 77299 | Baffling Strike |8| 99 | Quested; Droppable |
+| 4942 | 59897 | Balanced War Axe |7| 99 | |
+| 5027 | 59914 | Battle Cry |7| 99 | |
+| 5029 | 59916 | Battle Cry of Dravel |7| 99 | |
+| 5031 | 59918 | Battle Cry of the Mastruq |7| 99 | |
+| 5038 | 59925 | Battle Focus Discipline |7| 99 | |
+| 14198 | 115198 | Battle Frenzy |14| 99 | |
+| 14199 | 115199 | Battle Frenzy Rk. II |14| 99 | |
+| 14200 | 115200 | Battle Frenzy Rk. III |14| 99 | |
+| 4949 | 59904 | Battlerage Axe |7| 99 | |
+| 4940 | 59895 | Bearded Axe |7| 99 | |
+| 10923 | 79260 | Berserking Discipline |12| 99 | |
+| 10924 | 79261 | Berserking Discipline Rk. II |12| 99 | |
+| 10925 | 79262 | Berserking Discipline Rk. III |12| 99 | |
+| 5041 | 59928 | Blind Rage Discipline |7| 99 | |
+| 8477 | 77987 | Bloodlust Aura |11| 99 | Quested (Skylance: The Laboratory Mission in Arcstone); Sold in PoK by Kurlond Axebringer; Researched (351) |
+| 4948 | 59903 | Bloodseeker's Axe |7| 99 | |
+| 8476 | 77986 | Bloodthirst |11| 99 | Quested in Sverag, Stronghold of Rage; Sold in PoK by Kurlond Axebringer |
 | 8869 | None | Bloodthirst Effect || 99 | Proc Spell Triggered by BloodThirst |
-| 4938 | None | Blunt Axe |7| 99 | |
-| 4943 | None | Bonesplicer Axe |7| 99 | |
-| 5034 | None | Burning Rage Discipline |7| 99 | |
+| 4938 | 59893 | Blunt Axe |7| 99 | |
+| 4943 | 59898 | Bonesplicer Axe |7| 99 | |
+| 5034 | 59921 | Burning Rage Discipline |7| 99 | |
 | 5043 | None | Cleaving Anger Discipline |7| 99 | |
 | 5037 | None | Cleaving Rage Discipline |7| 99 | |
 | 4945 | None | Cold Steel Cleaving Axe |7| 99 | |
 | 4936 | None | Confusing Strike |7| 99 | |
 | 4937 | None | Corroded Axe |7| 99 | |
-| 6169 | None | Crippling Strike |8| 99 | |
-| 8003 | None | Cry Havoc |10| 99 | |
+| 6169 | None | Crippling Strike |8| 99 | Quested; Droppable |
+| 8003 | None | Cry Havoc |10| 99 | Quested: DoDH level 68 arc |
 | 4950 | None | Deathfury Axe |7| 99 | |
 | 14195 | None | Decimator's Volley |14| 99 | |
 | 14196 | None | Decimator's Volley Rk. II |14| 99 | |
@@ -72,7 +72,7 @@ ItemID's are for Tome of {Name}.
 | 4929 | None | Leg Cut |7| 99 | |
 | 4930 | None | Leg Slice |7| 99 | |
 | 4928 | None | Leg Strike |7| 99 | |
-| 6170 | None | Mind Strike |8| 99 | |
+| 6170 | None | Mind Strike |8| 99 | Quested; Droppable |
 | 4941 | None | Mithril Axe |7| 99 | |
 | 4946 | None | Mithril Bloodaxe |7| 99 | |
 | 4947 | None | Rage Axe |7| 99 | |
@@ -101,11 +101,11 @@ ItemID's are for Tome of {Name}.
 | 14193 | None | Third Wind Rk. II |14| 99 | |
 | 14194 | None | Third Wind Rk. III |14| 99 | |
 | 5225 | None | Throw Stone |0| 99 | |
-| 6201 | None | Unflinching Will Discipline |8| 99 | |
-| 6200 | None | Unpredictable Rage Discipline | | 99 | Triggers: Increase Damage Effect (SpellID: 6207) |
+| 6201 | None | Unflinching Will Discipline |8| 99 | Quested; Droppable |
+| 6200 | None | Unpredictable Rage Discipline | | 99 | Quested; Triggers: Increase Damage Effect (SpellID: 6207) |
 | 10914 | None | Unsettling Scream |12| 99 | |
 | 10915 | None | Unsettling Scream Rk. II |12| 99 | |
 | 10916 | None | Unsettling Scream Rk. III |12| 99 | |
-| 6199 | None | Vengeful Flurry Discipline |8| 99 | |
+| 6199 | None | Vengeful Flurry Discipline |8| 99 | Quested; Droppable |
 | 5028 | None | War Cry |7| 99 | |
 | 5030 | None | War Cry of Dravel |7| 99 | |
