@@ -68,7 +68,7 @@ ItemID's are for Tome of {Name}.
 | 14188 | None | Jarring Smash Rk. III |14| 99 | |
 | 10920 | None | Jarring Strike |12| 99 | |
 | 10921 | None | Jarring Strike Rk. II |12| 99 | |
-| 10922 | None | Jarring Strike Rk. III || 99 | |
+| 10922 | None | Jarring Strike Rk. III |12| 99 | |
 | 4929 | None | Leg Cut |7| 99 | |
 | 4930 | None | Leg Slice |7| 99 | |
 | 4928 | None | Leg Strike |7| 99 | |
@@ -93,7 +93,7 @@ ItemID's are for Tome of {Name}.
 | 14185 | None | Temple Strike Rk. III |14| 99 | |
 | 10908 | None | Tendon Cleave |12| 99 | |
 | 10909 | None | Tendon Cleave Rk. II |12| 99 | |
-| 10910 | None | Tendon Cleave Rk. III || 99 | |
+| 10910 | None | Tendon Cleave Rk. III |12| 99 | |
 | 14177 | None | Tendon Sever |14| 99 | |
 | 14178 | None | Tendon Sever Rk. II |14| 99 | |
 | 14179 | None | Tendon Sever Rk. III |14| 99 | |
