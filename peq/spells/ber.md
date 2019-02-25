@@ -1,6 +1,6 @@
 Visit [berserker spell list](http://mqemulator.net/spells.php?name=&class=16&minlevel=&maxlevel=&spelleffect=&isearch=Search) for spell list alphabetical
 
-ItemID's are for Tome of {Name}.
+ItemID's are for Tome of {Name}, or Skill: {Name}.
 
 | SpellID | ItemID | Name | Min | Max | Note |
 |---------|--------|------|-----|-----|------|
