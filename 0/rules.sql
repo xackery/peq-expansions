@@ -11,7 +11,7 @@ UPDATE rule_values SET rule_value='50' WHERE rule_name='Character:MaxLevel';
 UPDATE rule_values SET rule_value='false' WHERE rule_name='Character:RestRegenEnabled';
 UPDATE rule_values SET rule_value='false' WHERE rule_name='Character:RestRegenEndurance';
 
-# No shared bank by default
+# No shared bank until LoY
 UPDATE rule_values SET rule_value='false' WHERE rule_name='Character:SharedBankPlat';
 
 # Stat caps at 255 on classic, I believe?
