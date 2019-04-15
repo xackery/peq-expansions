@@ -1,4 +1,4 @@
 # This adjust rules for the Gates expansion
 
-# Planes Client-Based Expansion Setting
+# Gates Client-Based Expansion Setting
 UPDATE rule_values SET rule_value='64' WHERE rule_name='World:ExpansionSettings';
