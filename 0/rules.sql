@@ -1,5 +1,24 @@
 # This adjusts rules to be more classic-like.
 
+# Classic Client-Based Expansion Setting
+UPDATE rule_values SET rule_value='0' WHERE rule_name='World:ExpansionSettings';
+
+# Gear left on Corpses until post-OoW
+UPDATE rule_values SET rule_value='true' WHERE rule_name='Character:LeaveCorpses';
+UPDATE rule_values SET rule_value='false' WHERE rule_name='Character:LeaveNakedCorpses';
+
+# Bard AE Nerf Not added until OoW
+UPDATE rule_values SET rule_value='true' WHERE rule_name='Spells:PreNerfBardAEDoT';
+
+# Disable Server-Wide OOC Chat
+UPDATE rule_values SET rule_value='false' WHERE rule_name='Chat:ServerWideOOC';
+
+# Disable Server-Wide Auction Chat
+UPDATE rule_values SET rule_value='false' WHERE rule_name='Chat:ServerWideAuction';
+
+# Wizard non-AA Criticals Not added until Luclin
+UPDATE rule_values SET rule_value='65' WHERE rule_name='Spells:WizCritLevel';
+
 # X Targetting is not classic
 UPDATE rule_values SET rule_value='false' WHERE rule_name='Character:EnableXTargetting';
 
@@ -30,10 +49,17 @@ UPDATE rule_values SET rule_value='true' WHERE rule_name='Character:UseRaceClass
 # not added until later
 UPDATE rule_values SET rule_value='false' WHERE rule_name='Chat:EnableVoiceMacros';
 
+# Mail System not added until DoN
+UPDATE rule_values SET rule_value='false' WHERE rule_name='Mail:EnableMailSystem';
 
+# Task System Not added until OoW
+UPDATE rule_values SET rule_value='false' WHERE rule_name='TaskSystem:EnableTaskSystem';
 
+# Return Home Button Not added until DoN
+UPDATE rule_values SET rule_value='false' WHERE rule_name='World:EnableReturnHomeButton';
 
-
+# Tutorial Not added until DoN
+UPDATE rule_values SET rule_value='false' WHERE rule_name='World:EnableTutorialButton';
 
 
 
