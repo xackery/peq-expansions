@@ -190,5 +190,5 @@ UPDATE spawnentry SET expansion = 5 WHERE npcID = 394148; -- Mercenary_Akana
 DROP TABLE IF EXISTS temptable;
 CREATE TABLE temptable (spawngroupID int); 
 INSERT INTO temptable (spawngroupID) SELECT spawngroupID FROM spawnentry WHERE expansion >= '1' and expansion <= '10';
-UPDATE spawn2, temptable SET enabled = 0 WHERE spawn2.spawngroupID = temptable.spawngroupID;
+UPDATE spawn2, temptable SET enabled = '0' WHERE spawn2.spawngroupID = temptable.spawngroupID;
 DROP TABLE temptable;
